@@ -1,9 +1,10 @@
 # 👨🏻‍💻 Miguel Ferreira
 
-**`Desenvolvedor`**
+**Desenvolvedor**
 
 
-Sou Miguel Ferreira, tenho 17 anos e sou natural de Taubaté, São Paulo, Terminando o Ensino Médico e atualmente trabalho na área de Gestão com IA e me tornando especialista em DAS . Apaixonada por tecnologia.
+Sou Miguel Ferreira, tenho **17 anos** e sou natural de Taubaté, São Paulo, Terminando o Ensino Médico e atualmente trabalho na área de Gestão com IA e me tornando especialista em DAS . **IA na cabeça, código nas veias. Programar não é só profissão — é como eu penso o mundo.**
+
 
 ### 🤖 Linguagens e Tecnologias
 
