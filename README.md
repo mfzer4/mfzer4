@@ -90,7 +90,7 @@ Sou Miguel Ferreira, tenho 17 anos e sou natural de Taubaté, São Paulo, Termin
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 15px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mfzer4&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=mfzer4&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -98,11 +98,14 @@ Sou Miguel Ferreira, tenho 17 anos e sou natural de Taubaté, São Paulo, Termin
       alt="GitHub Stats" 
       height="150"
       style="padding-right: 15px;"  
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfzer4&theme=blue_navy&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfzer4&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 <br/>
 <br/>
+
+### ✅ Commits
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfzer4/mfzer4/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfzer4/mfzer4/output/github-contribution-grid-snake.svg">
