@@ -100,5 +100,11 @@ Sou Miguel Ferreira, tenho 17 anos e sou natural de Taubaté, São Paulo, Termin
       style="padding-right: 15px;"  
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfzer4&theme=blue_navy&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+<br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mfzer4/mfzer4/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mfzer4/mfzer4/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mfzer4/mfzer4/output/github-contribution-grid-snake.svg">
+</picture>
